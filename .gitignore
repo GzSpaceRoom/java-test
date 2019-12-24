@@ -24,3 +24,6 @@ hs_err_pid*
 
 #idea工程文件夹
 /.idea/
+
+#生成目录
+/target/
